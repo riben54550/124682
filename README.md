@@ -16,4 +16,4 @@
 
 无论是资深老司机还是新手入门者，都能在这里找到满意的影片资源，享受愉快的观影时光。
 
-<span style="display:none;">[Canonical link]( https://github.com/ribenyi1021/124682 ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/riben54550/124682 ）</span>
